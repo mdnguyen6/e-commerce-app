@@ -10,7 +10,7 @@ const Wrapper = styled.div`
   
   .paper-container {
     width: 100%;
-    background: ${(p) => p.theme.bg.light};
+    background: ${(p) => p.theme.bg.dark};
   }
   .information {
     cursor: pointer;

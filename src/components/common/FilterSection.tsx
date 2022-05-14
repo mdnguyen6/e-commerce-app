@@ -46,7 +46,7 @@ const ScrollItem = styled.div`
   & > div {
     display: inline-block;
     padding: 10px;
-    background: ${(p) => p.theme.bg.light};
+    background: ${(p) => p.theme.bg.dark};
     border-radius: 5px;
     height: 60px;
     margin-top: 5px;
